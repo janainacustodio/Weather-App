@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 body{
+    width:80%;
     background: rgb(70, 67, 67);
 }
 .card{
